@@ -5,6 +5,8 @@ title: Über Oliver Hoffmann und diese Website
 ---
 # Politischer Lebenslauf Oliver Hoffmann
 
+![Oliver Hoffmann 19 Sep 2019](/assets/images/2019-09-19-Podium-Oliver.jpg)
+
 Demokratie zeichnet sich nicht dadurch aus, dass Experten und Berufspolitiker bestimmen, was passiert.
 Demokratie lebt vom politischen Engagement normaler Staatsbürger.
 Ich habe die Adresse demokratie.at 1998 reserviert,
