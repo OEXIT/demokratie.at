@@ -27,3 +27,4 @@ Dabei werden 2 Prinzipien miteinander verbunden:
 3. Klar abgegrenzte Zeiträume zur Erreichung klar definierter Ziele ("Sprints")
 4. Eigenverantwortung vor Hierarchie: Wer sich eine Aufgabe zutraut, übernimmt sie und ist für das Ergebnis verantwortlich
 5. Kompetenz vor Status: Keine "Experten", sondern kompetente Arbeit auf Grundlage von Originaldaten
+6. Interessenvertretung statt Lobbyismus: Konsensbildung unter Bürgern statt Hinterzimmer-Politik der Herrschenden
