@@ -12,6 +12,8 @@ pagenumbering: location=
 
 Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Österreichischen Parlament, siehe [Stellungnahme auf der Parlaments-Seite](https://www.parlament.gv.at/PAKT/VHG/XXVII/SN/SN_116666/index.shtml).
 
+![Oliver Hoffmann](/assets/images/2022-07-20-Oliver-Hoffmann-scaled.png){:width="50%"}
+
 ### Informationen zur stellungnehmenden Person
 
 Ich bin an der Technischen Universität Wien ausgebildeter Informatiker, arbeite vorwiegend als Projektmanager, bin Österreichischer Staatsbürger und in Wien wahlberechtigt. Zum Zeitpunkt dieser Stellungnahme hat kein Mitglied des Österreichischen Nationalrats in irgendeiner Form versucht, mit Wahlberechtigten aus meinem Wahlkreis über das geplante "Bundesgesetz über die Impfpflicht gegen COVID-19" zu reden, weder vor Einbringen des [Ministerialentwurfs](https://www.parlament.gv.at/PAKT/VHG/XXVII/ME/ME_00164/) oder des [Initiativantrags von Abgeordneten der Regierungsparteien](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_02173/) noch danach. Zahlreiche besorgte Wahlberechtigte in meinem Wahlkreis vermissen eine der Bedeutung des beantragten Gesetzes angemessene Konsultation vor der Behandlung im Parlament. Ich kann die Organisation einer solchen Konsulation, zum Beispiel über Videocall, unterstützen. Ich ersuche die für meinen Wahlkreis zuständigen Abgeordneten, mindestens mit mir persönlich Kontakt aufzunehmen und die vorliegenden Gesetzesentwürfe zu besprechen, bevor sie im Nationalratsplenum behandelt werden. Ich bin unter anderem über die email-Adresse oliver.hoffmann ät demokratie.at erreichbar.
