@@ -55,6 +55,11 @@ Umfang:
 
 Verantwortlich: Johannes Rauch, Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz
 
-![Annemarie Masilko, Leitung der Sektion für Sozialversicherung im Ministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz](https://imgl.krone.at/scaled/2301242/v85f708/630x356.jpg){:width="25%"}
+![Annemarie Masilko, Leitung der Sektion für Sozialversicherung im Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz](https://imgl.krone.at/scaled/2301242/v85f708/630x356.jpg){:width="25%"}
 
-Eingereicht von: Annemarie Masilko, Leitung der Sektion für Sozialversicherung im Ministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+Eingereicht von: Annemarie Masilko, Leitung der Sektion für Sozialversicherung im Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
+
+![Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz](https://upload.wikimedia.org/wikipedia/commons/f/f5/BMSGPK_AT_Logo.svg){:width="25%"}
+
+Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@sozialministerium.at)
+
