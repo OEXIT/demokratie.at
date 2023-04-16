@@ -63,3 +63,14 @@ Eingereicht von: Annemarie Masilko, Leitung der Sektion für Sozialversicherung 
 
 Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@sozialministerium.at)
 
+[Kurzinformation](https://www.parlament.gv.at/dokument/XXVII/ME/261/imfname_1550548.pdf)
+
+[Begleitschreiben](https://www.parlament.gv.at/dokument/XXVII/ME/261/imfname_1550487.pdf)
+
+[Gesetzestext](https://www.parlament.gv.at/dokument/XXVII/ME/261/fname_1550483.pdf)
+
+[Vorblatt und Wirkungsorientierte Folgenabschätzung](https://www.parlament.gv.at/dokument/XXVII/ME/261/fname_1550486.pdf)
+
+[Erläuterungen](https://www.parlament.gv.at/dokument/XXVII/ME/261/fname_1550484.pdf)
+
+[Textgegenüberstellung](https://www.parlament.gv.at/dokument/XXVII/ME/261/fname_1550485.pdf)
