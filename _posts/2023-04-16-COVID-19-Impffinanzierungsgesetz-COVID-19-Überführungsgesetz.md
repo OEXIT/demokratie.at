@@ -82,3 +82,9 @@ Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@so
 * Die seit Beschluss des Impfpflichtgesetzes neu hinzugekommenen Fakten werden dafür wieder vollkommen ignoriert und stattdessen längst wiederlegte Behauptungen wiederholt
 * Es drängt sich der Eindruck auf, dass die "erfolgreiche" Faktenverleugnungsstrategie mit späterer "wir haben es ncht besser gewusst" Ausrede konsequent weitergetrieben wird
 
+## Zusammenfassung
+
+* Regierung und Parlament stecken viel Aufwand darin, möglichst immer mindestens einen Schritt hinter der gerade nachweisbaren Wahrheit hinterherzuhinken
+* Alles soll überwacht werden, nur die Wirksamkeit und Sicherheit der Gentechnikbehandlungen nicht
+* Überführung in den Regelbetrieb ohne Anwendung von Regeln für Regelbetrieb: Wo bleibt die Überprüfung der Notzulassungen?
+* Das Regime sichert sich Ressourcen, um die Gentechnikbehandlungen weiterzutreiben. Aber es gibt keine Ressourcen für die Erhebung der Folgen der Gentechnikbehandlungen.
