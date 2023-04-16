@@ -61,7 +61,7 @@ Eingereicht von: Annemarie Masilko, Leitung der Sektion für Sozialversicherung 
 
 ![Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz](https://upload.wikimedia.org/wikipedia/commons/f/f5/BMSGPK_AT_Logo.svg){:width="25%"}
 
-Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@sozialministerium.at)
+Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@sozialministerium.at), Sachbearbeiterin in der Abteilung II/A/9 (Legistische Angelegenheiten in der Kranken- und Unfallversicherung) im Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
 
 [Kurzinformation](https://www.parlament.gv.at/dokument/XXVII/ME/261/imfname_1550548.pdf)
 
