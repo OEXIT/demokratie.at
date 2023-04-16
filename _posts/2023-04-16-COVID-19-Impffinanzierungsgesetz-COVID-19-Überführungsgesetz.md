@@ -74,3 +74,8 @@ Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@so
 [Erläuterungen](https://www.parlament.gv.at/dokument/XXVII/ME/261/fname_1550484.pdf)
 
 [Textgegenüberstellung](https://www.parlament.gv.at/dokument/XXVII/ME/261/fname_1550485.pdf)
+
+## Erste Eindrücke
+
+* Hauptmotivation ist allem Anschein nach eine *rechtliche Absicherung der Regierung*: Bearbeitet und eingereicht wird von Personen, die offenbar vor allem für rechtliche und legistische Aspekte zuständig sind, Begründungen zielen vor allem auf Fortsetzung von Maßnahmen ab, die eigentlich auslaufen sollten.
+* 
