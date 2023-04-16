@@ -31,3 +31,22 @@ Dabei werden 2 Prinzipien miteinander verbunden:
 5. Kompetenz vor Status: Keine "Experten", sondern kompetente Arbeit auf Grundlage von Originaldaten
 6. Interessenvertretung statt Lobbyismus: Konsensbildung unter Bürgern statt Hinterzimmer-Politik der Herrschenden
 
+## Ministerialentwurf
+
+2023-04-06 Einlangen im Nationalrat, siehe [Übersicht auf der Website des Österreichischen Parlaments](https://www.parlament.gv.at/gegenstand/XXVII/ME/261).
+2023-03-05 Ende der Begutachtungsfrist.
+
+Umfang:
+* Neues COVID-19-Impffinanzierungsgesetz
+* Geändertes COVID-19-Maßnahmengesetz
+* Geändertes Epidemiegesetz
+* Geändertes Allgemeines Sozialversicherungsgesetz
+* Geändertes Gewerbliche Sozialversicherungsgesetz
+* Geändertes Bauern-Sozialversicherungsgesetz
+* Geändertes Beamten-Kranken- und Unfallversicherungsgesetz
+* Geändertes Apothekengesetz
+* Geändertes Arzneimittelgesetz
+* Geändertes Ärztegesetz
+* Geändertes Psychotherapiegesetz
+* Geändertes Sanitätergesetz
+* COVID-19-Überführungsgesetz als Instrument für Änderungen
