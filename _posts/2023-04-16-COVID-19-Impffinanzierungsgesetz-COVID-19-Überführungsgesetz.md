@@ -78,4 +78,7 @@ Stellungnahmen an [vera.pribitzer@sozialministerium.at](mailto:vera.pribitzer@so
 ## Erste Eindrücke
 
 * Hauptmotivation ist allem Anschein nach eine *rechtliche Absicherung der Regierung*: Bearbeitet und eingereicht wird von Personen, die offenbar vor allem für rechtliche und legistische Aspekte zuständig sind, Begründungen zielen vor allem auf Fortsetzung von Maßnahmen ab, die eigentlich auslaufen sollten.
-* 
+* Es werden jetzt, mit mehr als einjähriger Verspätung, teilweise Fakten anerkannt, die schon vor der Behandlung des Impfpflichtgesetzes anerkannt werden hätten müssen und die den Beschluss des Impfpflichtgesetzes verhindert hätten.
+* Die seit Beschluss des Impfpflichtgesetzes neu hinzugekommenen Fakten werden dafür wieder vollkommen ignoriert und stattdessen längst wiederlegte Behauptungen wiederholt
+* Es drängt sich der Eindruck auf, dass die "erfolgreiche" Faktenverleugnungsstrategie mit späterer "wir haben es ncht besser gewusst" Ausrede konsequent weitergetrieben wird
+
