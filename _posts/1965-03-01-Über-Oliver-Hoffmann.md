@@ -51,4 +51,4 @@ Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der Wahl zum Österreic
 mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Vertreter der aktuellen Parlamentsparteien anzugeloben,
 siehe mein [Interview mit Max Pucher](https://my-tube.tv/videos/bundesprasidentenwahl-2022-interview-dipl-ing-oliver-hoffmann/)
 und die Übersicht über mein damaliges Angebot an die Österreichischen Wahlberechtigten auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
-Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren habe ich 2023 eine [Initiative zur agilen Demokratie](/agil) gestartet.
+Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren habe ich 2023 eine [Initiative zur agilen Demokratie](/agil) angeregt.
