@@ -188,17 +188,18 @@ Johannes Rauch direkt anschließend bei der selben Pressekonferenz:
 > bewältigen können.
 > Und das ist auch ein ganz wesentlicher Teil dieses Prozesses.
 
-Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zuverantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur durch die Zivilgesellschaft erfolgen. Dieses Projekt hat folgende Ziele:
+Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog mit Maßnahmenkritikern auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zu verantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur durch die Zivilgesellschaft erfolgen. Dieses Projekt hat folgende Ziele:
 
 1. Dokumentation der von offizieller Seite im Umfeld der Covid-Maßnahmen aufgestellten Behauptungen
 2. Dokumentation der Entscheiungsfindungsprozesse im Vorfeld der Covid-Maßnahmen
 3. Dokumentation der Covid-Maßnahmen und ihrer offiziellen Begründungen
-4. Dokumentation des Wissenstands offizieller Einrichtungen zu Covid und der erwartbaren Auswirkungen der Covid-Maßnahmen
-6. Dokumentation der Argumentation der Bundesregierung zur Verteidung der juristischen Korrektheit der Covid-Maßnahmen, insbesondere im Zusammenhang mit Verfahren vor Höchstgerichten
-7. Dokumentation des zur Zeit der Covid-Maßnahmen verfügbaren Wissensstandes
-8. Dokumentation der Veränderung des Wissensstandes seit der jeweiligen Covid-Maßnahme
-9. Dokumentation der tatsächlichen Folge der jeweiligen Covid-Maßnahme
-10. Gegenüberstellung von behaupteten und tatsächlichen Auswirkungen der Covid-Maßnahmen
+4. Dokumentation des Wissenstands offizieller Einrichtungen zu Covid und erwartbaren Auswirkungen der Covid-Maßnahmen
+5. Dokumentation des zur Zeit der Covid-Maßnahmen allgemein verfügbaren Wissensstandes
+6. Dokumentation der Veränderung des Wissensstandes seit der jeweiligen Covid-Maßnahme
+7. Dokumentation der tatsächlichen Folge der jeweiligen Covid-Maßnahme
+8. Gegenüberstellung von behaupteten und tatsächlichen Auswirkungen der Covid-Maßnahmen
+9. Dokumentation der Argumentation der Bundesregierung zur Verteidung der juristischen Korrektheit der Covid-Maßnahmen, insbesondere im Zusammenhang mit Verfahren vor Höchstgerichten
+10. Dokumentation der nach Auslaufen der Covid-Maßnahmen erfolgten Maßnahmen zuständiger Stellen zur Erhebung der tatsächlichen Folgen der Maßnahmen
 11. Schlussfolgerungen für zukünftige Maßnahmen
 12. Bewertung der Performance offizieller Einrichtungen in Hinblick auf die Erfüllung ihrer Kernaufgaben während der Covid-Jahre
 
