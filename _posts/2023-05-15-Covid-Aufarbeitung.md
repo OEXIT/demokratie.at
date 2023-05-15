@@ -188,7 +188,18 @@ Johannes Rauch direkt anschließend bei der selben Pressekonferenz:
 > bewältigen können.
 > Und das ist auch ein ganz wesentlicher Teil dieses Prozesses.
 
-Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog mit Maßnahmenkritikern auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zu verantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur durch die Zivilgesellschaft erfolgen. Dieses Projekt hat folgende Ziele:
+Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog mit Maßnahmenkritikern auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zu verantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur durch die Zivilgesellschaft erfolgen. Wir wollen diese Aufgabe in Form eines offen und agil organisierten Projekts übernehmen. Das bedeutet, die Teilnahme an diesem Projekt ist grundsätzlich offen und die Umsetzung des Projekts erfolgt in einer Kombination demokratischer Prinzipien mit modernen Management-Methoden aus der Software-Entwicklung, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html). Die Aufarbeitung wird damit offen und iterativ in Sprints organisiert:
+
+1. Jeder Sprint hat einen genau definierten Zeitraum, typischerweise 2-3 Wochen.
+2. Am Anfang jedes Sprints steht die Sprintplanung mit dem gesamten Team: Aufgaben für den Sprint werden besprochen, der Aufwand geschätzt und Teammitglieder melden sich (freiwillig!) für die Umsetzung der einzelnen Aufgaben. Beispiel für eine Aufgabe: Eine vollständige Liste aller Covid-Maßnahmen erstellen.
+3. Während des Sprints bearbeiten Teammitglieder ihre Aufgaben grundsätzlich autnom und selbständig, aber es kann unbürokratisch organisierte Zusammenarbeit innerhalb und ausserhalb des Teams geben.
+4. In der Sprintplanung können auch regelmäßige kurze Checkpoints vereinbart werden, zum Beispiel 15-Minuten-Videocalls zum Abgleich des aktuellen Standes.
+5. Am Ende jedes Sprints werden Ergebnisse präsentiert, analysiert und dokumentiert.
+6. Im Zweifel ist alles transparent und öffentlich, also aufgezeichnete videocalls und öffentlich zugängliche Dokumentation
+4. Grundsätzlich hohes intellektuelles Niveau, aber Eigenverantwortung vor Hierarchie: Wer sich eine Aufgabe zutraut, übernimmt sie und ist für das Ergebnis verantwortlich
+5. Kompetenz vor Status: Keine "Experten", sondern kompetente Arbeit auf Grundlage von Originaldaten
+
+Das Projekt hat folgende Ziele:
 
 1. Dokumentation der von offizieller Seite im Umfeld der Covid-Maßnahmen aufgestellten Behauptungen
 2. Dokumentation der Entscheiungsfindungsprozesse im Vorfeld der Covid-Maßnahmen
@@ -203,13 +214,3 @@ Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidung
 11. Schlussfolgerungen für zukünftige Maßnahmen
 12. Bewertung der Performance offizieller Einrichtungen in Hinblick auf die Erfüllung ihrer Kernaufgaben während der Covid-Jahre
 
-Die Umsetzung des Projekts erfolgt in einer Kombination demokratischer Prinzipien mit modernen Management-Methoden aus der Software-Entwicklung, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html). Die Aufarbeitung wird offen und iterativ in Sprints organisiert:
-
-1. Jeder Sprint hat einen genau definierten Zeitraum, typischerweise 2-3 Wochen.
-2. Am Anfang jedes Sprints steht die Sprintplanung mit dem gesamten Team: Aufgaben für den Sprint werden besprochen, der Aufwand geschätzt und Teammitglieder melden sich (freiwillig!) für die Umsetzung der einzelnen Aufgaben. Beispiel für eine Aufgabe: Eine vollständige Liste aller Covid-Maßnahmen erstellen.
-3. Während des Sprints bearbeiten Teammitglieder ihre Aufgaben grundsätzlich autnom und selbständig, aber es kann unbürokratisch organisierte Zusammenarbeit innerhalb und ausserhalb des Teams geben.
-4. In der Sprintplanung können auch regelmäßige kurze Checkpoints vereinbart werden, zum Beispiel 15-Minuten-Videocalls zum Abgleich des aktuellen Standes.
-5. Am Ende jedes Sprints werden Ergebnisse präsentiert, analysiert und dokumentiert.
-6. Im Zweifel ist alles transparent und öffentlich, also aufgezeichnete videocalls und öffentlich zugängliche Dokumentation
-4. Grundsätzlich hohes intellektuelles Niveau, aber Eigenverantwortung vor Hierarchie: Wer sich eine Aufgabe zutraut, übernimmt sie und ist für das Ergebnis verantwortlich
-5. Kompetenz vor Status: Keine "Experten", sondern kompetente Arbeit auf Grundlage von Originaldaten
