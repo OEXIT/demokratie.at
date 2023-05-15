@@ -52,12 +52,12 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > die Zeit der Pandemie,
 > die Wirkungen der Maßnahmen,
 > und das, was es mit der Gesellschaft gemacht hat,
-> zu analysieren, zu disktuieren,
+> zu analysieren, zu diskutieren,
 > gemeinsam mit den im Parlament vertretenen Parteien,
 > um eben auch da am Ziel des Weges anzukommen,
 > nämlich die Gesellschaft miteinander wieder zu versöhnen.
 
-Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler den geplanten COVID-19-Aufarbeitungsprozess erklärt. Karoline Edtstadler hat das folgendermaßen angekündigt:
+Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. Karoline Edtstadler hat das folgendermaßen umschrieben:
 
 > Die letzten 3 Jahre kann man eigentlich mit einem Wort beschreiben: Ausnahmezustand.
 > Das war sicher ein Ausnahmezustand, der seinesgleichen, jedenfalls in der 2. Republik, sucht.
@@ -102,7 +102,10 @@ Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen h
 > sich der Aufarbeitung zu stellen.
 > Niemand kann die Vergangenheit ändern.
 > Aber jetzt ist die Zeit, die Schlüsse daraus zu ziehen und die Lehren für die Zukunft zu ziehen.
-> 
+> Um als Gesellschaft auch resilienter zu werden für künftige Herausforderungen.
+> Aus Verantwortung für Österreich.
+
+Johannes Rauch direkt anschließend bei der selben Pressekonferenz:
 
 > Jetzt ist [auch] der richtige Zeitpunkt gekommen,
 > die Lehren zu ziehen,
@@ -185,17 +188,27 @@ Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen h
 > bewältigen können.
 > Und das ist auch ein ganz wesentlicher Teil dieses Prozesses.
 
-Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren bauen wir politische Meinungsbildung als Kombination moderner Managementmethoden mit kompetenter demokratischer Kultur wieder neu auf.
-Dabei werden 2 Prinzipien miteinander verbunden:
+Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zuverantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur durch die Zivilgesellschaft erfolgen. Dieses Projekt hat folgende Ziele:
 
-1. Alle Macht geht vom Volk aus. Jede politische Maßnahme muss sich in einem transparenten Dialog bewähren, bevor sie überhaupt ernsthaft in Betracht gezogen werden darf.
-2. Moderne Wissensarbeit baut auf agiler Organisation von Teams auf. Zuerst kommt Eigenverantwortung, dann erst, wenn überhaupt, Hierarchie. Das hat sich in der Software-Entwicklung bewährt, ist aber überall einsetzbar, wo es Wissensarbeit gibt, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
+1. Dokumentation der von offizieller Seite im Umfeld der Covid-Maßnahmen aufgestellten Behauptungen
+2. Dokumentation der Entscheiungsfindungsprozesse im Vorfeld der Covid-Maßnahmen
+3. Dokumentation der Covid-Maßnahmen und ihrer offiziellen Begründungen
+4. Dokumentation des Wissenstands offizieller Einrichtungen zu Covid und der erwartbaren Auswirkungen der Covid-Maßnahmen
+6. Dokumentation der Argumentation der Bundesregierung zur Verteidung der juristischen Korrektheit der Covid-Maßnahmen, insbesondere im Zusammenhang mit Verfahren vor Höchstgerichten
+7. Dokumentation des zur Zeit der Covid-Maßnahmen verfügbaren Wissensstandes
+8. Dokumentation der Veränderung des Wissensstandes seit der jeweiligen Covid-Maßnahme
+9. Dokumentation der tatsächlichen Folge der jeweiligen Covid-Maßnahme
+10. Gegenüberstellung von behaupteten und tatsächlichen Auswirkungen der Covid-Maßnahmen
+11. Schlussfolgerungen für zukünftige Maßnahmen
+12. Bewertung der Performance offizieller Einrichtungen in Hinblick auf die Erfüllung ihrer Kernaufgaben während der Covid-Jahre
 
-## Zusammenarbeit in der Agilen Demokratie
+Die Umsetzung des Projekts erfolgt in einer Kombination demokratischer Prinzipien mit modernen Management-Methoden aus der Software-Entwicklung, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html). Die Aufarbeitung wird offen und iterativ in Sprints organisiert:
 
-1. Alles ist transparent und öffentlich
-2. Besprechnungen im Zweifel über Videokonferenz
-3. Klar abgegrenzte Zeiträume zur Erreichung klar definierter Ziele ("Sprints")
-4. Eigenverantwortung vor Hierarchie: Wer sich eine Aufgabe zutraut, übernimmt sie und ist für das Ergebnis verantwortlich
+1. Jeder Sprint hat einen genau definierten Zeitraum, typischerweise 2-3 Wochen.
+2. Am Anfang jedes Sprints steht die Sprintplanung mit dem gesamten Team: Aufgaben für den Sprint werden besprochen, der Aufwand geschätzt und Teammitglieder melden sich (freiwillig!) für die Umsetzung der einzelnen Aufgaben. Beispiel für eine Aufgabe: Eine vollständige Liste aller Covid-Maßnahmen erstellen.
+3. Während des Sprints bearbeiten Teammitglieder ihre Aufgaben grundsätzlich autnom und selbständig, aber es kann unbürokratisch organisierte Zusammenarbeit innerhalb und ausserhalb des Teams geben.
+4. In der Sprintplanung können auch regelmäßige kurze Checkpoints vereinbart werden, zum Beispiel 15-Minuten-Videocalls zum Abgleich des aktuellen Standes.
+5. Am Ende jedes Sprints werden Ergebnisse präsentiert, analysiert und dokumentiert.
+6. Im Zweifel ist alles transparent und öffentlich, also aufgezeichnete videocalls und öffentlich zugängliche Dokumentation
+4. Grundsätzlich hohes intellektuelles Niveau, aber Eigenverantwortung vor Hierarchie: Wer sich eine Aufgabe zutraut, übernimmt sie und ist für das Ergebnis verantwortlich
 5. Kompetenz vor Status: Keine "Experten", sondern kompetente Arbeit auf Grundlage von Originaldaten
-6. Interessenvertretung statt Lobbyismus: Konsensbildung unter Bürgern statt Hinterzimmer-Politik der Herrschenden
