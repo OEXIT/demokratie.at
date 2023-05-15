@@ -57,7 +57,52 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > um eben auch da am Ziel des Weges anzukommen,
 > nämlich die Gesellschaft miteinander wieder zu versöhnen.
 
-Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler erklärt:
+Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler den geplanten COVID-19-Aufarbeitungsprozess erklärt. Karoline Edtstadler hat das folgendermaßen angekündigt:
+
+> Die letzten 3 Jahre kann man eigentlich mit einem Wort beschreiben: Ausnahmezustand.
+> Das war sicher ein Ausnahmezustand, der seinesgleichen, jedenfalls in der 2. Republik, sucht.
+> Ein Ausnahmezustand, den wir Dank des Zusammenhalts, anfänglich auch durch einstimmige Maßnahmen im Parlament,
+> Dank des Zusammenhalts in der Gesellschaft,
+> überwinden konnte, konnten.
+> Die Jahrhundertpandemie hat in kürzester Zeit weitreichende Entscheidungen von uns verlangt mit weitreichenden Konsequenzen.
+> Entscheidungen, die wir nicht allein getroffen haben.
+> Sondern mit Unterstützung der Wissenschaft.
+> Entscheidungen, die keinem leicht gefallen sind.
+> Und die aber jedenfalls aus damaliger Sicht notwendig waren.
+> Entscheidungen auch, die zu Maßnahmen geführt haben, deren Auswirkungen wir bis heute insbesondere in der Gesellschaft spüren.
+> Diese Maßnahmen konnten Menschenleben retten.
+> Diese Maßnahmen haben aber auch zu einer spürbaren Polarisierung und zu einer Verunsicherung in der Gesellschaft geführt.
+> Politische Entscheidungen standen wohl nie zuvor so im Fokus und unter Beobachtung wie damals während dieser Ausnahmezeit.
+> Schnelle und gleichzeitig 100% ausbalancierte Maßnahmen zu treffen,
+> ist wohl sehr schwierig.
+> Um nicht zu sagen:
+> Ein Ding der Unmöglichkeit.
+> Mit dem Aufarbeitungsprozess möchten wir uns aber jetzt als Regierung, gemeinsam mit der Gesellschaft, als Republik,
+> dieser schwierigen Phase der Gesellschaft stellen und die Lehren aus der Krise ziehen.
+> Selbstverständlich und Gott sei Dank mit Unterstützung der Wissenschaft und der Forschung und mit Stimmen aus der Bevölkerung.
+> Wichtig ist in diesem Prozess auch der Blick von Aussen.
+> Der internationale Beirat mit renommierten Forscherinnen und Forschern wird den Prozess begleiten,
+> wissenschaftliche Standards kontrollieren und auch die internationale Dimension beleuchten.
+> Mein großer Dank gilt in diesem Zusammenhang der Österreichischen Akademie der Wissenschaftler.
+> Mit einem Gedanken, den ich persönlich hier hineinbringen möchte,
+> möchte ich auch schon zum Schluss meiner Ausführungen kommen:
+> Als Politikerin glaube ich daran,
+> dass es 3 Prinzipien braucht:
+> Zum ersten Mut.
+> Die Angst vor Fehlern darf uns niemals davon abhalten,
+> zu handeln.
+> Zum zweiten Ehrlichkeit.
+> Auch wenn die Wahrheit oft schwierig ist,
+> haben die Bürgerinnen und Bürger ein Recht auf die Wahrheit.
+> Und zum Dritten glaube ich an das Prinzip der Gerechtigkeit.
+> Selbstverständlich müssen wir auf alle schauen in der Gesellschaft.
+> Auch auf die, die am lautesten sind.
+> Und auch auf die schweigende Mehrheit.
+> Verantwortungsvolles Handeln einer Regierung bedeutet,
+> sich der Aufarbeitung zu stellen.
+> Niemand kann die Vergangenheit ändern.
+> Aber jetzt ist die Zeit, die Schlüsse daraus zu ziehen und die Lehren für die Zukunft zu ziehen.
+> 
 
 > Jetzt ist [auch] der richtige Zeitpunkt gekommen,
 > die Lehren zu ziehen,
