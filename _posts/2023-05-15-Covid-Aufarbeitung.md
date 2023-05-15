@@ -27,7 +27,7 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > eines Teiles der Gesellschaft,
 > wieder rückgängig gemacht werden kann und
 > dafür ist es notwendig, einen Dialogprozess zu starten.
-> Einen dialogprozess mit dem Ziel,
+> Einen Dialogprozess mit dem Ziel,
 > dass die Gesellschaft sich auch wieder versöhnen kann.
 > Erinnern Sie sich zurück an diese 3 Jahre Pandemie:
 > Wir haben einen Teil der Bevölkerung gehabt,
@@ -39,15 +39,15 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > dem das alles zu wenig war.
 > Das Wichtige ist, dass wir beginnen,
 > wieder aufeinander zuzugehen.
-> Und das Tückische an traumatischen Ereignissen ist,
-> wenn man sie nicht bearbeitet,
+> Und das Tückische an traumatischen Ereignissen ist:
+> Wenn man sie nicht bearbeitet,
 > bleiben sie in den Menschen drin.
 > Und das wollen wir auflösen.
 > Der Dialogprozess wird rund um Ostern herum starten.
 > Gemeinsam mit Johannes Rauch,
 > dem Gesundheitsminister,
 > werden wir hier einen Weg definieren,
-> um mit den Bürgerinenn und Bürgern,
+> um mit den Bürgerinnen und Bürgern,
 > mit Expertinnen und Experten,
 > die Zeit der Pandemie,
 > die Wirkungen der Maßnahmen,
@@ -57,7 +57,88 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > um eben auch da am Ziel des Weges anzukommen,
 > nämlich die Gesellschaft miteinander wieder zu versöhnen.
 
+Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler erklärt:
 
+> Jetzt ist [auch] der richtige Zeitpunkt gekommen,
+> die Lehren zu ziehen,
+> das passiert im Übrigen auch in ganz Europa,
+> alle Mitgliedstaaten der Europäischen Union arbeiten daran,
+> was haben wir gelernt in der Pandemie,
+> was hat funktioniert,
+> was hat nicht funktioniert.
+> Weil ja die Pandemie wie ein Brennglas war auch auf Defizite,
+> auch ein Lernprozess war,
+> wo sich Dinge weiterentwickelt haben,
+> es hat einen massiven Schub in der Digitalisierung gebracht,
+> wo wir auch in Österreich ein Stück weitergekommen sind.
+> Wir haben in Österreich eine ganze Reihe von schon Erkenntnissen darliegen.
+> Der Rechnungshof hat in mehreren Berichten die Maßnahmen zur Pandemiebekämpfung evaluiert
+> und seine Vorschläge eingebracht.
+> Die liegen bereits bei uns im Gesundheitsministerium
+> und fließen ein auch in die Ausarbeitung des Pandemieplans für die Zukunft.
+> Dieser Pandemieplan wird bis Mitte des Jahres vorliegen.
+> Dort werden diese Erkenntnisse eingearbeitet.
+> Wir arbeiten bereits jetzt daran,
+> ein neues Epidemiegesetz zustandezubekommen.
+> Das Epidemiegesetz in der bisherigen Form war,
+> wie wir gelernt haben,
+> nicht ausreichend auf die Pandemie eingestellt.
+> Dieser Prozess wird so laufen,
+> dass wir bis Jahresende in Begutachtung gehen werden können,
+> weil ein neues Epidemiegesetz dann eben die Basis schafft,
+> gut gewappnet zu sein für hoffentlich nicht kommende künftige Pandemien.
+> Die wissenschaftliche Aufarbeitung ist eine ganz wichtige Ergänzung.
+> Der Prozess, der heute vorgestellt wird,
+> ist ein weiteres Element,
+> um eben die richtigen Lehren auch aus der Krise,
+> aus der Pandemie, zu ziehen.
+> Er hat 2 wichtige Teile:
+> Eine sozialwissenschaftliche Analyse
+> und Fokusgruppen, also Bürgerbeteiligung.
+> Die beiden Dinge werden anschließend vorgestellt werden.
+> Beide Teile dieses Prozesses,
+> und das ist sehr sehr wichtig und das find ich auch großartig und vielen Dank,
+> dass das auch geschieht,
+> werden von der Wissenschaft begleitet.
+> Die Sozialwissenschaften untersuchen auch die Auswirkungen von Entscheidungen auf die Gesellschaft.
+> Und genau darum geht es auch.
+> Es hat, und das ist auch kein Geheimnis,
+> das Vertrauen in die Wissenschaft sehr gelitten.
+> Und gerade deshalb ist es wichtig,
+> dass es diese wissenschaftliche Aufarbeitung gibt und wir uns daran dann orientieren.
+> Wissenschaft und Fakten, Erkenntnis, Analyse, sind Basis unserer Gesellschaft.
+> Und das steht ausser Streit.
+> Wir müssen Wissenschaftlichkeit und Tatsachen ausser Streit stellen,
+> dort wo sie in Zweifel gezogen werden.
+> Es braucht eine gemeinsame Basis,
+> einen gemeinsamen Grundkonsens für eine funktionierende Demokratie.
+> Das ist für mich klar.
+> Wir gehen auf die Menschen zu.
+> Gleichzeitig versuchen wir, wie gesagt, ins Gespräch zu kommen.
+> Das ist eine politische Aufgabe für die nächsten Monate und Jahre auf allen Ebenen.
+> Es haben, das sage ich auch dazu,
+> diese Krisen, und das ist ja nicht nur die Pandemie,
+> es ist dann gekommen der Krieg in der Ukraine,
+> die Teuerung, die Energiekrise,
+> die Menschen sehr belastet.
+> In mehrfacher Hinsicht belastet.
+> Und das heisst, das ist auch die Aufgabe von Politik,
+> und da schliesse ich mich an die Karoline Edtstadler an,
+> diesen 3 Grundprinzipien, die von Dir dargestellt worden sind,
+> erstens in verantwortlicher Haltung gegenüberzutreten und zu sagen,
+> ja, wir stehen da als Bundesregierung, und wir nehmen diese Verantwortung wahr,
+> und zwar in gesamtstaatlichem Interesse,
+> nicht im Interessevon einzelnen Gruppen,
+> niemanden ausschließen,
+> und den Versuch unternehmen,
+> jedenfalls so etwas wie eine Grundsolidarität im Staate zu erhalten.
+> Und dieses Mindestmaß an Zusammenhalt,
+> dieses Mindestmaß an Solidarität,
+> ist notwendig, damit wir die Herausforderungen vor denen wir,
+> aber nicht nur Österreich,
+> sondern ganz Europa steht,
+> bewältigen können.
+> Und das ist auch ein ganz wesentlicher Teil dieses Prozesses.
 
 Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren bauen wir politische Meinungsbildung als Kombination moderner Managementmethoden mit kompetenter demokratischer Kultur wieder neu auf.
 Dabei werden 2 Prinzipien miteinander verbunden:
