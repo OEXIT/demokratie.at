@@ -59,6 +59,8 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 
 Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. Karoline Edtstadler hat das folgendermaßen umschrieben:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pyy-OcDNSP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 > Die letzten 3 Jahre kann man eigentlich mit einem Wort beschreiben: Ausnahmezustand.
 > Das war sicher ein Ausnahmezustand, der seinesgleichen, jedenfalls in der 2. Republik, sucht.
 > Ein Ausnahmezustand, den wir Dank des Zusammenhalts, anfänglich auch durch einstimmige Maßnahmen im Parlament,
