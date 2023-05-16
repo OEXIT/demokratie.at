@@ -109,9 +109,7 @@ Auf Nachfrage eines Journalisten, ob die Regierung dann auch eigene Fehler anerk
 > die radikal für diese Maßnahmen waren.
 > Und beides gilt es eben ein Stück weit wieder zusammenzubringen.
 
-Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler und Wissenschaftsminister Martin Polaschek den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pyy-OcDNSP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer [Pressekonferenz mit Verfassungsministerin Karoline Edtstadler und Wissenschaftsminister Martin Polaschek](https://www.youtube.com/watch?v=pyy-OcDNSP4) den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. 
 
 Karoline Edtstadler:
 
