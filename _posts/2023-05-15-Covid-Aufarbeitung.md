@@ -57,9 +57,11 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > um eben auch da am Ziel des Weges anzukommen,
 > nämlich die Gesellschaft miteinander wieder zu versöhnen.
 
-Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. Karoline Edtstadler hat das folgendermaßen umschrieben:
+Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler und Wissenschaftsminister Martin Polaschek den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pyy-OcDNSP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Karoline Edtstadler:
 
 > Die letzten 3 Jahre kann man eigentlich mit einem Wort beschreiben: Ausnahmezustand.
 > Das war sicher ein Ausnahmezustand, der seinesgleichen, jedenfalls in der 2. Republik, sucht.
@@ -107,7 +109,7 @@ Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen h
 > Um als Gesellschaft auch resilienter zu werden für künftige Herausforderungen.
 > Aus Verantwortung für Österreich.
 
-Johannes Rauch direkt anschließend bei der selben Pressekonferenz:
+Johannes Rauch:
 
 > Jetzt ist [auch] der richtige Zeitpunkt gekommen,
 > die Lehren zu ziehen,
@@ -189,6 +191,138 @@ Johannes Rauch direkt anschließend bei der selben Pressekonferenz:
 > sondern ganz Europa steht,
 > bewältigen können.
 > Und das ist auch ein ganz wesentlicher Teil dieses Prozesses.
+
+Martin Polaschek:
+
+> Drei Jahre einer besonderen Situation
+> durch die Pandemie liegen hinter uns. Das
+> ist eine Zeit, die ohne Zweifel durch
+> große Herausforderungen geprägt war und
+> eine Zeit in der auch in der Tat
+> polarisiert worden ist und wir sind
+> sicherlich als Gesellschaft auch an
+> bestimmte Grenzen gestoßen. Wir haben in
+> vielen Bereichen zwischenzeitig auf
+> Notbetrieb umstellen müssen, egal ob
+> jetzt in der Schule in der Familie oder
+> im Beruf und es sind durch die Pandemie
+> auch gesellschaftliche Gräben
+> entstanden, die zuvor für uns alle
+> unvorstellbar waren. Und ich denke ich
+> kann für uns alle sprechen, dass wir froh
+> sind dass diese Zeit vorbei ist. Und es
+> ist jetzt auch an der Zeit, eine
+> ordnungsgemäße Aufarbeitung
+> durchzuführen, um auch den
+> gesellschaftlichen Zusammenhalt in
+> Österreich nach der Pandemie wieder zu
+> erneuern und auch für die Zukunft zu
+> lernen. Und als Bundesregierung haben wir
+> daher eben einen klaren Weg des Dialogs
+> eingeschlagen, um
+> auch besser gerüstet zu sein für
+> kommende Herausforderungen.
+> Und ich bin als Bundesminister für
+> Wissenschaft und Forschung in meinem
+> Bereich gerne Bestandteil dieses
+> Prozesses und werde in meinem Schritt, in
+> meinem Bereich, auch die die notwendigen
+> Schritte setzen um die
+> Pandemie wissenschaftlich aufzuarbeiten
+> und so zum Verständnis dieser Zeit
+> beizutragen. Und es ist daher mir
+> natürlich ein Anliegen, dass am Beginn
+> dieses Prozesses ein fundierter
+> Forschungsprozess steht und dieser
+> Forschungsprozess hat begonnen. Und
+> dieser
+> Forschungsprozess wird in einem ersten
+> Schritt die Maßnahmen der
+> Bundesregierung während der Pandemie
+> analysieren. Das ist ein klares Signal
+> und hebt die Bedeutung der Wissenschaft
+> in unserer Gesellschaft hervor.
+> Durchgeführt wird dieser Prozess durch
+> die Österreichische Akademie der
+> Wissenschaften, genauer gesagt durch das
+> Institut für Technikfolgenabschätzung,
+> das hier eben in vollständiger
+> Unabhängigkeit daran forschen wird. Ich
+> möchte auch noch mal betonen: Klar ist,
+> Politik und Wissenschaft haben 2
+> verschiedene und voneinander unabhängige
+> Rollen in unserer Gesellschaft zu leben.
+> Die Rolle der Wissenschaft ist der
+> Erkenntnisgewinn durch Forschung, sowie
+> der Transfer des aktuellen
+> Wissensstandes in die Gesellschaft
+> hinein.
+> Die Aufgabe der Politik ist es,
+> bestmögliche Entscheidungen im Sinne der
+> gesamten Bevölkerung zu treffen. Und auch
+> diese beiden Rollen finden in diesem
+> Aufarbeitungsprozess unabhängig
+> voneinander Platz im Erkenntnisgewinn
+> durch den Forschungsprozess und im
+> gesellschaftlichen Dialog als Basis für
+> politische Entscheidungen.
+> Wie wird also dieser Erkenntnisgewinn
+> jetzt im ersten Schritt aussehen?
+> Der Forschung-, der Forschungsprozess wird
+> eben stattfinden durch ein eigenes
+> Projekt betreffend die Auseinandersetzung
+> mit Pandemien und deren Folgen, wird
+> durch die Akademie der Wissenschaft im
+> Auftrag des Wissenschaftsministeriums
+> stattfinden. Und es wird in diesem in
+> diesem Projekt nicht nur darum gehen, zu
+> analysieren, wie die Pandemie in
+> Österreich bewältigt worden ist, sondern
+> auch punktuell inter-, internationale
+> Vergleiche geben. Es werden 4 Fallstudien
+> erfolgen. Und in denen geht es
+> darum, zu untersuchen, wie die
+> Polarisierung innerhalb der Gesellschaft
+> entstanden ist,
+> was Politikberatung bedeutet, das heißt,
+> der Unterschied zwischen dem
+> wissenschaftlichen Erkenntnisgewinn und
+> der politischen Entscheidungsfindung.
+> Auch das Herausarbeiten der politischen
+> Zielkonflikte, der öffentlichen
+> Kommunikation in Krisenzeiten und für
+> mich auch als Wissenschaftsminister
+> besonders. besonders interessant und wichtig:
+> Die Erforschung der
+> Wissenschaftsskepsis in der Bevölkerung.
+> Und auch der anschließende Dialogpprozess wird von der
+> Akademie der Wissenschaften entsprechend
+> begleitet werden, die Ergebnisse werden
+> in einer Abschlusspublikation zusammengefasst und es wird natürlich auch
+> aufbauend auf dem Prozess,
+> der nun eingeläutet worden ist,
+> entsprechende Folgeforschung geben.
+> Wie gesagt: Der Forschungsprozess hat
+> bereits begonnen und ich bin davon
+> überzeugt, dass wir dadurch einen
+> wichtigen Schritt setzen werden. Wir
+> haben auch im
+> Bildungs-, Wissenschafts- und 
+> Forschungsressor bereits wesentliche
+> Schritte gesetzt, zum Beispiel eben durch
+> den Ressortschwerpunkt zur Stärkung des
+> Vertrauens in die Wissenschaft und
+> Demokratie oder auch durch die
+> Förderpakete, um die Auswirkungen der
+> Pandemie auf die Schülerinnen und
+> Schüler abzufedern und die Resilienz zu
+> stärken.
+> Und auch dank dieser Maßnahmen werden
+> wir als Gesellschaft stärker aus der
+> Pandemie herauskommen, als wir
+> hineingegangen sind und ich bin mir
+> sicher dass wir auch diesen Weg
+> gemeinsam gut beschreiben werden.
 
 Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog mit Maßnahmenkritikern auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zu verantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur autonom durch die Zivilgesellschaft erfolgen. Wir wollen diese Aufgabe in Form eines offen und agil organisierten Projekts übernehmen. Das bedeutet, die Teilnahme an diesem Projekt ist grundsätzlich offen und die Umsetzung des Projekts erfolgt in einer Kombination demokratischer Prinzipien mit modernen Management-Methoden aus der Software-Entwicklung, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html). Die Aufarbeitung wird damit iterativ in Sprints organisiert:
 
