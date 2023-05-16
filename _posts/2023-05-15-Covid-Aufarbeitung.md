@@ -14,7 +14,7 @@ pagenumbering: location=
 ---
 # Aufarbeitung der Covid-Maßnahmen
 
-Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgende Ankündigung gemacht:
+Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgende [Ankündigung](https://www.puls24.at/video/puls-24-news/nehammer-zu-pandemie-hat-spuren-und-trauma-hinterlassen/v-cqih4u8ct7ax) gemacht:
 
 > Wir sind jetzt 3 Jahre nach dem Ausbruch der Pandemie.
 > Viele Begegnungen mit Menschen in den Bundesländern, mit Bürgerinnen und Bürgern, haben mir gezeigt,
