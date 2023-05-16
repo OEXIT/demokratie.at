@@ -57,6 +57,58 @@ Am 15. Februar 2023 hat der Österreichische Bundeskanzler Karl Nehammer folgend
 > um eben auch da am Ziel des Weges anzukommen,
 > nämlich die Gesellschaft miteinander wieder zu versöhnen.
 
+Auf Nachfrage eines Journalisten, ob die Regierung dann auch eigene Fehler anerkennen wird:
+
+> Also, ich glaub das Wesen - und das war auch bereits in meiner Kanzlerschaft sichtbar - 
+> unserer Regierung und auch von mir ist, das wir hier niemals behaupten würden, fehlerfrei zu sein.
+> Das was wir immer gesagt haben:
+> Wir haben redlich und nach bestem Wissen und Gewissen gehandelt,
+> aber wie Sie selbst gesagt haben:
+> Gut gemeint ist manchmal nicht gut.
+> Und über all das gilt es eben auch zu sprechen.
+> Aber eben auch zu erklären.
+> Ich glaub, das Wichtige ist in einem Dialogprozess sichtbar zu machen,
+> dass es nicht um böse Absicht, um sozusagen böse Hintergedanken dem jeweils anderern gegangen ist,
+> sondern den einen eben auch, die Angst sichtbar zu machen,
+> und bei den anderen das, was sie bewegt hat, um Maßnahmen zu setzen,
+> damit Menschen nicht sterben.
+> Erinnern Sie sich zurück:
+> Die Deltavariante hat 2 Bundesländer fast in den Intensivstationen zum Kollaps gebracht.
+> Die erste Variante des Coronaviruses hat tausende Tote in Norditalien in einer Art und Weise ans Tageslicht gebracht und war sichtbar gemacht,
+> erinnern Sie sich an die Fernsehbilder, die Sie damals da transportiert haben,
+> wo das an Dramatik nicht zu überbieten war und die Gefährlichkeit des Viruses tatsächlich sichtbar war.
+> Und die Maßnahmen, die dann abgeleitet worden sind,
+> das, was international passiert ist, gemeinsam,
+> das gilt es aus meiner Sicht eben zu besprechen.
+> Und eine Fehlerkultur heisst eben auch:
+> Wenn Fehler tatsächlich begangen worden sind,
+> diese auch zu benennen.
+> Oder auch Maßnahmen wieder zurückzunehmen.
+> Denken Sie daran, das heißt umstrittenste Thema war die Impfpflicht.
+> Wir haben ein Gesetz gebaut, das der Verfassung gemäß auch tatsächlich ein aus meiner Sicht gutes war,
+> im Sinne dessen, dass Sie immer Verhältnismäßigkeit und Zweckmäßigkeit geprüft hat.
+> Und gleichzeitig sind wir zu der Einsicht gelangt,
+> überhaupt nicht das Ergebnis gebracht hat,
+> das sie bringen hätte sollen,
+> sondern eher geschadet hat.
+> Und wir haben sie auch wieder zurückgenommen.
+> Also: Ja, Maßnahmen, die nicht effizient waren,
+> Maßnahmen, die nicht gut waren,
+> auch wieder zurückzunehmen, ist ein Teil dieses Dialogprozesses,
+> diese zu bearbeiten.
+> Aber das Wesentliche ist:
+> Die, die sich davon abgeschreckt haben, von den Maßnahmen der Regierung, auch dafür ein Stück weit zu gewinnen und zu erklären,
+> was waren die Hintergründe, was wollten wir damit erreichen?
+> Nämlich Menschenleben retten.
+> Und gleichzeitig diejenigen, die verstört waren, dass wir Maßnahmen auch wieder schnell aufgehoben haben,
+> auch wieder zu gewinnen und zu sehen:
+> Was sind die Hintergründe?
+> Also es gibt ja beide Teile der Gesellschaft, vergessen wir das nicht:
+> Es gibt die, die radikal gegen Maßnahmen waren.
+> Und es gibt aber auch die in unserer Gesellschaft,
+> die radikal für diese Maßnahmen waren.
+> Und beides gilt es eben ein Stück weit wieder zusammenzubringen.
+
 Der angekündigte Dialogprozess hat dann aber nicht stattgefunden. Stattdessen hat Gesundheitsminister Johannes Rauch am 4. Mai 2023 ohne Bundeskanzler Karl Nehammer in einer Pressekonferenz mit Verfassungsministerin Karoline Edtstadler und Wissenschaftsminister Martin Polaschek den geplanten "COVID-19-Aufarbeitungsprozess" erklärt. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pyy-OcDNSP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -324,7 +376,10 @@ Martin Polaschek:
 > sicher dass wir auch diesen Weg
 > gemeinsam gut beschreiben werden.
 
-Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog mit Maßnahmenkritikern auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zu verantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur autonom durch die Zivilgesellschaft erfolgen. Wir wollen diese Aufgabe in Form eines offen und agil organisierten Projekts übernehmen. Das bedeutet, die Teilnahme an diesem Projekt ist grundsätzlich offen und die Umsetzung des Projekts erfolgt in einer Kombination demokratischer Prinzipien mit modernen Management-Methoden aus der Software-Entwicklung, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html). Die Aufarbeitung wird damit iterativ in Sprints organisiert:
+Damit wurde das im Februar 2023 in Aussicht gestellte Vorhaben, die Entscheidungsfindungsprozesse und Covid-Maßnahmen der Regierung zu evaluieren und in einem offenen Dialog mit Maßnahmenkritikern auf ihre tatsächlichen Folgen zu untersuchen, durch einen Auftrag für eine sozialwissenschaftliche Studie ersetzt. 
+Statt der am 15. Februar 2023 angekündigten "Fehlerkultur", in der "eigene Fehler auch benannt werden", werden die Probleme nur in der "Wissenschaftsskepsis" der Maßnahmenkritiker gesucht.
+Die Bundesregierung wird ihre eigenen Fehler nicht offen aufarbeiten.
+Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer tatsächlichen Aufarbeitung der von Parlament und Regierung zu verantwortenden Covid-Maßnahmen setzt, kann die tatsächliche Aufarbeitung nur autonom durch die Zivilgesellschaft erfolgen. Wir wollen diese Aufgabe in Form eines offen und agil organisierten Projekts übernehmen. Das bedeutet, die Teilnahme an diesem Projekt ist grundsätzlich offen und die Umsetzung des Projekts erfolgt in einer Kombination demokratischer Prinzipien mit modernen Management-Methoden aus der Software-Entwicklung, siehe [agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html). Die Aufarbeitung wird damit iterativ in Sprints organisiert:
 
 1. Jeder Sprint hat einen genau definierten Zeitraum, typischerweise 2-3 Wochen.
 2. Am Anfang jedes Sprints steht die Sprintplanung mit dem gesamten Team: Aufgaben für den Sprint werden besprochen, der Aufwand geschätzt und Teammitglieder melden sich (freiwillig!) für die Umsetzung der einzelnen Aufgaben. Beispiel für eine Aufgabe: Eine vollständige Liste aller Covid-Maßnahmen erstellen.
@@ -349,4 +404,8 @@ Das Projekt hat folgende Ziele:
 10. Dokumentation der nach Auslaufen der Covid-Maßnahmen erfolgten Maßnahmen zuständiger Stellen zur Erhebung der tatsächlichen Folgen der Maßnahmen
 11. Schlussfolgerungen für zukünftige Maßnahmen
 12. Bewertung der Performance offizieller Einrichtungen in Hinblick auf die Erfüllung ihrer Kernaufgaben während der Covid-Jahre
+
+Nachdem sowohl die Bundesregierung als auch die mit ihr verbundene "Impfpflichtallianz" die Covid-Maßnahmen vor allem mit der "Rettung von Menschenleben" begründet hat, ist bei der Bewertung der Maßnahmen ein besonderer Fokus auf die umfassende Gegenüberstellung der durch die Covid-Maßnahmen vermeideten und verursachten Todesfälle zu erwarten.
+
+Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll im Mai 2023 starten, in jedem Sprint Ergebnisse liefern und voraussichtlich bis Ende 2023 weiterlaufen.
 
