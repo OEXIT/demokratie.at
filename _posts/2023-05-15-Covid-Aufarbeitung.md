@@ -45,7 +45,7 @@ Das Projekt hat folgende Ziele:
 
 Nachdem sowohl die Bundesregierung als auch die mit ihr verbundene "Impfpflichtallianz" die Covid-Maßnahmen vor allem mit der "Rettung von Menschenleben" begründet hat, ist bei der Bewertung der Maßnahmen ein besonderer Fokus auf die umfassende Gegenüberstellung der durch die Covid-Maßnahmen vermeideten und verursachten Todesfälle zu erwarten.
 
-Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll im Mai 2023 starten, in jedem Sprint Ergebnisse liefern und voraussichtlich bis Ende 2023 weiterlaufen.
+Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll im Juni 2023 starten, in jedem Sprint Ergebnisse liefern und voraussichtlich bis Ende 2023 weiterlaufen.
 
 ### Partner
 
