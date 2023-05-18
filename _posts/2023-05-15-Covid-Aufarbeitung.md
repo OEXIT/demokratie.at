@@ -47,3 +47,6 @@ Nachdem sowohl die Bundesregierung als auch die mit ihr verbundene "Impfpflichta
 
 Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll im Mai 2023 starten, in jedem Sprint Ergebnisse liefern und voraussichtlich bis Ende 2023 weiterlaufen.
 
+Teilnehmer:
+
+![Grüner Verein für Grundrechte und Informationsfreiheit](assets/images/2023-05-18-GGI.svg){:width="50%"}
