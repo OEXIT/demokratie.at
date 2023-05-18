@@ -49,4 +49,4 @@ Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll i
 
 Teilnehmer:
 
-![Grüner Verein für Grundrechte und Informationsfreiheit](assets/images/2023-05-18-GGI.svg){:width="50%"}
+[![Grüner Verein für Grundrechte und Informationsfreiheit](/assets/images/2023-05-18-GGI.svg){:width="50%"}](https://ggi-initiative.at/)
