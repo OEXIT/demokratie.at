@@ -49,7 +49,7 @@ Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll i
 
 ### Partner
 
-[![Grüner Verein für Grundrechte und Informationsfreiheit](/assets/images/2023-05-18-GGI.svg){:width="50%"}](https://ggi-initiative.at/)
-[![Dr. Marcus Franz](/assets/images/2023-05-18-Franz.svg){:width="50%"}](https://www.internist-hietzing.at/)
+[![Grüner Verein für Grundrechte und Informationsfreiheit](/assets/images/2023-05-18-GGI.svg){:height="20%"}](https://ggi-initiative.at/)
+[![Dr. Marcus Franz](/assets/images/2023-05-18-Franz.svg){:height="20%"}](https://www.internist-hietzing.at/)
 
 
