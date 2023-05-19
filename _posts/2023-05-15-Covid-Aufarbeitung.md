@@ -55,4 +55,7 @@ Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll i
 
 [![Freisinnige](/assets/images/2023-05-19-Freisinnige-logo.svg)](https://freisinnige.at)
 
+[![Union Souveränität](/assets/images/2023-05-18-Souveraenitaet.svg)](https://souveraenitaet.org)
+
+
 
