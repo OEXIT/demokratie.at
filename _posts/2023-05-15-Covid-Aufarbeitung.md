@@ -53,6 +53,6 @@ Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll i
 
 [![Dr. Marcus Franz](/assets/images/2023-05-18-Franz-logo.svg)](https://www.internist-hietzing.at/)
 
-[![Freisinnige](/assets/images/2023-05-18-Freisinnige-logo.svg)](https://freisinnige.at)
+[![Freisinnige](/assets/images/2023-05-19-Freisinnige-logo.svg)](https://freisinnige.at)
 
 
