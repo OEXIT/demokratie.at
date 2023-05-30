@@ -31,14 +31,14 @@ Nachdem auch der Österreichische Nationalrat keinerlei Aktivitäten zu einer ta
 Das Projekt hat folgende Ziele:
 
 1. Dokumentation der von offizieller Seite im Umfeld der Covid-Maßnahmen aufgestellten Behauptungen
-2. Dokumentation der Entscheiungsfindungsprozesse im Vorfeld der Covid-Maßnahmen
+2. Dokumentation der Entscheidungsfindungsprozesse im Vorfeld der Covid-Maßnahmen
 3. Dokumentation der Covid-Maßnahmen und ihrer offiziellen Begründungen
 4. Dokumentation des Wissenstands offizieller Einrichtungen zu Covid und erwartbaren Auswirkungen der Covid-Maßnahmen
 5. Dokumentation des zur Zeit der Covid-Maßnahmen allgemein verfügbaren Wissensstandes
 6. Dokumentation der Veränderung des Wissensstandes seit der jeweiligen Covid-Maßnahme
 7. Dokumentation der tatsächlichen Folge der jeweiligen Covid-Maßnahme
 8. Gegenüberstellung von behaupteten und tatsächlichen Auswirkungen der Covid-Maßnahmen
-9. Dokumentation der Argumentation der Bundesregierung zur Verteidung der juristischen Korrektheit der Covid-Maßnahmen, insbesondere im Zusammenhang mit Verfahren vor Höchstgerichten
+9. Dokumentation der Argumentation der Bundesregierung zur Verteidigung der juristischen Korrektheit der Covid-Maßnahmen, insbesondere im Zusammenhang mit Verfahren vor Höchstgerichten
 10. Dokumentation der nach Auslaufen der Covid-Maßnahmen erfolgten Maßnahmen zuständiger Stellen zur Erhebung der tatsächlichen Folgen der Maßnahmen
 11. Schlussfolgerungen für zukünftige Maßnahmen
 12. Bewertung der Performance offizieller Einrichtungen in Hinblick auf die Erfüllung ihrer Kernaufgaben während der Covid-Jahre
