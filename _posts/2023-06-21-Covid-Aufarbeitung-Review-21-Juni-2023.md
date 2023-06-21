@@ -12,3 +12,5 @@ linkcolor: red
 pagenumbering: location=
 ---
 # Covid Aufarbeitung Review 21. Juni 2023
+
+[Urkundenerklärung](/files/2021-06-14-003-Beilage-C-Urkundenerklärung.pdf)
