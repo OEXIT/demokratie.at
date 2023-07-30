@@ -5,7 +5,7 @@ title: Über Oliver Hoffmann und diese Website
 ---
 # Politischer Lebenslauf Oliver Hoffmann
 
-![Oliver Hoffmann 19 Sep 2019](/assets/images/2019-09-19-Podium-Oliver.jpg){:width="50%"}
+[![Oliver Hoffmann 19 Sep 2019](/assets/images/2023-05-26-Botschaft.png){:width="50%"}](https://youtu.be/ZefRfP1KP0E)
 
 Demokratie zeichnet sich nicht dadurch aus, dass Experten und Berufspolitiker bestimmen, was passiert.
 Demokratie lebt vom politischen Engagement normaler Staatsbürger.
