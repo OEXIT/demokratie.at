@@ -57,9 +57,19 @@ Das Projekt der zivilgesellschaftlichen Aufarbeitung der Covid-Maßnahmen soll i
 
 [![Union Souveränität](/assets/images/2023-05-18-Souveraenitaet.svg)](https://souveraenitaet.org)
 
-### Reviews
+### Vorhandene Übersichtsarbeit der AfA zum Wissensstand 2021
 
-[21. Juni 2023](/Covid-Aufarbeitung-Review-21-Juni-2023)
+* [audiatur-Bericht Teil 1](/files/2021-03-16-002-Beilage-B-Audiatur-Bericht.pdf)
+* [Interview Dr. Allerberger](/files/2021-06-28-004-Beilage-D-Interview-Dr-Allerberger.pdf)
+* [Urkundenerklärung](/files/2021-06-14-003-Beilage-C-Urkundenerklärung.pdf)
+  
+### Visualisierung der Gesetze und Verordnungen
 
+* [Maßnahmen auf Github](https://demokratie.github.io/Covid/)
+
+### Logik der Begründungen
+
+* [Visualisierung der Argumentation zum Ministerialentwurf des Impfpflichtgesetzes](/Impfpflichtgesetz-Ministerialentwurf/)
+* [Analyse und Stellungnahme Oliver Hoffmann](/Stellungnahme-zu-COVID-19-IG/)
 
 
