@@ -52,3 +52,4 @@ mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Vertreter der aktuel
 siehe mein [Interview mit Max Pucher](https://my-tube.tv/videos/bundesprasidentenwahl-2022-interview-dipl-ing-oliver-hoffmann/)
 und die Übersicht über mein damaliges Angebot an die Österreichischen Wahlberechtigten auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
 Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren habe ich 2023 eine [Initiative zur Aufarbeitung der Covid-Maßnahmen](/covid) angeregt.
+Diese Initiative ist nicht sehr weit gekommen, weil auch bei ehrenamtlicher Arbeit ein konkreter Gegenwert zu einem konkreten Zeitpunkt erwartet wird, was sich in dieser Form nicht kurzfristig genug darstellen ließ. Und nachdem die Demokratie sowohl in Österreich als auch in der EU in Not ist, habe ich vor, mich an den [kommenden Wahlen](/EU2024) zu beteiligen.
