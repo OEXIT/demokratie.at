@@ -40,13 +40,13 @@ Nach meinem Rückzug wurde die Männerpartei 2013 von Hannes Hausbichler überno
 Auf den Auswuchs staatlicher Willkür in Covid-Zeiten habe ich zuerst mit dem Versuch reagiert,
 "meinen" Volksvertretern im Österreichischen Parlament klar zu machen,
 wie unlogisch und gleichzeitig gefährlich die Argumentation für die diversen mit Covid begründeten Maßnahmen von Anfang an war.
-Meine [offizielle Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Nationalrat](/Stellungnahme-zu-COVID-19-IG)
+Meine [offizielle Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Nationalrat](https://demokratie.at/Stellungnahme-zu-COVID-19-IG/)
 hat dann in der Feststellung kulminiert:
 "Jeder einzelne Abgeordnete, der gegen dieses Gesetz stimmt, wird ein Hinweis darauf sein, dass der Österreichische Nationalrat überhaupt noch seine Funktion als Volksvertretung wahrnehmen kann oder soll."
 Leider haben die Abgeordneten in ihrer überwiegenden Mehrheit dann sehr deutlich gemacht,
 dass dieses Parlament seine Funktion als Volksvertretung nicht wahrnimmt und ein Dialog mit diesen Abgeordneten daher nutzlos ist.
 In der Folge habe ich mich der Widerstandsbewegung gegen dieses Regime angeschlossen und zusammen mit verstreuten Dissidenten
-[Grundsätze und Ziele für die Österreichische Bürgerrechtsbewegung](/Buergerrechtsbewegung) formuliert.
+[Grundsätze und Ziele für die Österreichische Bürgerrechtsbewegung](https://demokratie.at/Buergerrechtsbewegung/) formuliert.
 Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
 mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Vertreter der aktuellen Parlamentsparteien anzugeloben,
 siehe mein [Interview mit Max Pucher](https://my-tube.tv/videos/bundesprasidentenwahl-2022-interview-dipl-ing-oliver-hoffmann/)
