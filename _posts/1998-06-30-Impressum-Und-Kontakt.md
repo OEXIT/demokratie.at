@@ -1,9 +1,8 @@
 ---
 layout: single
-title: Impressum
+title: Impressum und Kontakt
 permalink: impressum.html
 ---
-# Impressum und Kontakt
 
 Für den Inhalt verantwortlich:<br />
 Mag. Christian Ebner<br />
