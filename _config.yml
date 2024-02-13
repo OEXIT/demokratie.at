@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "de"
-title                    : "Oliver Hoffmann"
+title                    : "ÖXIT"
 title_separator          : " "
-name                     : "Oliver Hoffmann"
-description              : "Demokratie in Österreich"
+name                     : "ÖXIT"
+description              : "EU-Austritt für Österreich"
 url                      : "https://oexit.me"
 baseurl                  : "/"
 logo                      : /assets/images/2024-02-03-Oexit.png
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oliver Hoffmann"
+  name             : "Mag. Christian Ebner"
   avatar           : ""
-  bio              : "Demokratie in Österreich"
+  bio              : ""
   location         : "Österreich"
   email            :
   uri              :
@@ -245,4 +245,4 @@ defaults:
       read_time: false
       comments: false
       share: false
-      related: true
+      related: false
