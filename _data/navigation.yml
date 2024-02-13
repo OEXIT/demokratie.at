@@ -10,16 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - EU-Wahl 2024
+  - title: EU-Wahl 2024
     url: /EU2024/
-  - Über uns
+  - title: Über uns
     url: /about/
-  - Unsere Ziele
+  - title: Unsere Ziele
     url: /ziele/
-  - Medien
+  - title: Medien
     url: /medien/
-  - Unterstützen
+  - title: Unterstützen
     url: /unterstuetzen/
-  - Kontakt
+  - title: Kontakt
     url: /contact/
-
