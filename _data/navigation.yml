@@ -11,14 +11,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: EU-Wahl 2024
-    url: /EU2024/
+    url: /EU2024.html/
   - title: Über uns
-    url: /about/
+    url: /about.html/
   - title: Unsere Ziele
-    url: /ziele/
+    url: /ziele.html/
   - title: Medien
-    url: /medien/
+    url: /medien.html/
   - title: Unterstützen
-    url: /unterstuetzen/
+    url: /unterstuetzen.html/
   - title: Kontakt
-    url: /contact/
+    url: /contact.html/
