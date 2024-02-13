@@ -9,6 +9,7 @@
              style="height:12vh;min-height:3em;max-height:6em;vertical-align:text-bottom;"
           >
 			  </a>
+        {% if page.url != "/index.html" %}
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -19,6 +20,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+        {% endif %}
         <button><div class="navicon"></div></button>
         <ul class="hidden-links hidden"></ul>
       </nav>
