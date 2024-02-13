@@ -3,7 +3,7 @@ layout: splash
 permalink: ueber.html
 title: Das Wahlbündnis ÖXIT EU-AUSTRITT FÜR ÖSTERREICH
 ---
-# Das Wahlbündnis ÖXIT EU-AUSTRITT FÜR ÖSTERREICH
+# Wahlbündnis ÖXIT - EU-Austritt für Österreich
 
 [![Oliver Hoffmann 19 Sep 2019](/assets/images/2023-05-26-Botschaft.png){:width="100%"}](https://youtu.be/ZefRfP1KP0E)
 
