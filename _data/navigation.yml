@@ -8,5 +8,18 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-   - title: "Sitemap"
-     url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  - EU-Wahl 2024
+    url: /EU2024/
+  - Über uns
+    url: /about/
+  - Unsere Ziele
+    url: /ziele/
+  - Medien
+    url: /medien/
+  - Unterstützen
+    url: /unterstuetzen/
+  - Kontakt
+    url: /contact/
+
