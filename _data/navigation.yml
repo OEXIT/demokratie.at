@@ -1,19 +1,9 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
   - title: EU-Wahl 2024
     url: /EU2024.html
   - title: Über uns
-    url: /about.html
+    url: /ueber.html
   - title: Unsere Ziele
     url: /ziele.html
   - title: Medien
@@ -21,4 +11,4 @@ main:
   - title: Unterstützen
     url: /unterstuetzen.html
   - title: Kontakt
-    url: /contact.html
+    url: /impressum.html
