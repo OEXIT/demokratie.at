@@ -14,6 +14,4 @@ wahl ät oexit.me<br />
 <br />
 Diese Website wird auf GitHub Pages und damit auf Servern der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA gehostet. GitHub kann beim Aufruf der Seiten technische Informationen und auch die IP-Adresse erfassen. Hierfür und eventuelle weitere Verarbeitungen ist GitHub datenschutzrechtlich verantwortlich.
 
-{% raw %}
-  <div data-tf-live="01HPXHR97R2EG3A7P67MKZNJ0Z"></div><script src="//embed.typeform.com/next/embed.js"></script>
-{% endraw %}
+{% raw %} <div data-tf-live="01HPXMXNWAF7B20DBKBB4V06W1"></div><script src="//embed.typeform.com/next/embed.js"></script> {% endraw %}
